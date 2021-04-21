@@ -13,5 +13,5 @@ export function Header() {
 
       <span>{currentDate}</span>
     </header>
-  )
+  );
 }
