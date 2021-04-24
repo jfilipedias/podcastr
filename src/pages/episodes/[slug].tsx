@@ -59,6 +59,8 @@ export default function Episode({ episode }: EpisodeProps) {
 export const getStaticPaths: GetStaticPaths = async () => {
   return {
     paths: [],
+    // Blocking makes the request ocours on Next layer. This is the best option for SO
+    // Incremental Static Regeneration
     fallback: 'blocking',
   }
 }
