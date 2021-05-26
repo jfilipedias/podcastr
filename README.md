@@ -1,40 +1,42 @@
 <h1>
-  <img alt="Logo podcastr" title="Podcastr" src="./public/logo.svg" />
+  <img alt="Podcastr logo " title="Podcastr" src="./public/logo.svg" />
 </h1>
 
-O podcastr é uma plataforma web para streaming de podcasts.
+Podcastr is a web platform for podcasts streaming.
 
-O projeto foi desenvolvido durante a **Next Level Week #05** ministrada pela [Rocketseat](https://rocketseat.com.br/). Dessa forma foi desenvolvida uma aplicação front-end com uso do framework [Next.js](https://nextjs.org/)
+The project was developed during the **Next Level Week #05** hosted by [Rocketseat](https://rocketseat.com.br/). In this way, a front-end application was develop with [Next.js](https://nextjs.org/) framework.
 
-<img alt="Interface do podcastr" src="./public/app-preview.png" />
+<img alt="Podcastr interface" src="./public/app-preview.png" />
 
-# Como utilizar
-Para utilizar a aplicação é preciso ter o Node instalado na sua maquina.
+# How to use
+To use this project you need to have [Node](https://nodejs.org/en/) installed on your machine.
+
 
 ```sh
-  # Instale as dependências
+  # Install the dependencies
   $ yarn install
-  # ou
+  # or
   $ npm install
 
-  # Inicie o fake server
+  # Start the fake server
   $ yarn server
-  # ou
+  # or
   $ npm run server
 
-  # Inicie o front-end
+  # Start the front-end
   $ yarn dev
-  # ou
+  # or
   $ npm run dev
 ```
 
 
-# Tecnologias
-As tecnologias utilizadas são:
+# Technologies
+Some technologies used are:
 
+- [Node](https://nodejs.org/en/)
 - [ReacJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 
-# Licença
-Esse projeto está sob a licença MIT. Consulte [LICENSE](LICENSE) para mais informações.
+# License
+This project is licensed under the MIT. Consult the [LICENSE](LICENSE) for more information.
