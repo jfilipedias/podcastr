@@ -21,23 +21,17 @@ To use this project you need to have [Node](https://nodejs.org/en/) installed on
 ```sh
   # Install the dependencies
   $ yarn
-  # or
-  $ npm install
 
   # Start the fake server
   $ yarn server
-  # or
-  $ npm run server
 
   # Start the front-end
   $ yarn dev
-  # or
-  $ npm run dev
 ```
 
 
 ## Technologies
-- [ReacJS](https://reactjs.org/)
+- [ReactJS](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [Node.js](https://nodejs.org)
 - [Typescript](https://www.typescriptlang.org/)
