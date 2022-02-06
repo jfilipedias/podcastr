@@ -1,6 +1,12 @@
-<h1>
-  <img alt="Podcastr logo " title="Podcastr" src="./public/logo.svg" />
+<h1 align="center">
+  <img alt="Podcastr logo " title="Podcastr" src="./public/logo.svg" width="400px" />
 </h1>
+
+<p align="center">
+  <img alt="Developer" src="https://img.shields.io/badge/developer-jfilipedias-blue">
+  <img alt="GitHub" src="https://img.shields.io/github/license/jfilipedias/podcastr">
+</p>
+<br>
 
 Podcastr is a web platform for podcasts streaming.
 
@@ -8,13 +14,13 @@ The project was developed during the **Next Level Week #05** hosted by [Rocketse
 
 <img alt="Podcastr interface" src="./public/app-preview.png" />
 
-# How to use
+## Getting started
 To use this project you need to have [Node](https://nodejs.org/en/) installed on your machine.
 
 
 ```sh
   # Install the dependencies
-  $ yarn install
+  $ yarn
   # or
   $ npm install
 
@@ -30,13 +36,11 @@ To use this project you need to have [Node](https://nodejs.org/en/) installed on
 ```
 
 
-# Technologies
-Some technologies used are:
-
-- [Node](https://nodejs.org/en/)
+## Technologies
 - [ReacJS](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
+- [Node.js](https://nodejs.org)
+- [Typescript](https://www.typescriptlang.org/)
 
-# License
+## License
 This project is licensed under the MIT. Consult the [LICENSE](LICENSE) for more information.
